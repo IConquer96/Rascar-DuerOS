@@ -13,7 +13,7 @@
 ### 项目获取
 通过git下载代码到本地
 
-    # git clone https://github.com/MyDuerOS/DuerOS-Python-Client.git
+    # git clone https://github.com/IConquer96/Rascar-DuerOS.git
 
 ### 认证授权
 在DuerOS-Python-Client目录下执行
@@ -29,7 +29,7 @@
 ### 通过[小度小度]触发唤醒状态
 在DuerOS-Python-Client目录下执行
 
-    # ./wakeup_trigger_start.sh
+    # ./w.sh
 然后，每次通过[小度小度]进行唤醒，然后，进行语音输入
 
  
